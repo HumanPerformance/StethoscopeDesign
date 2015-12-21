@@ -1,9 +1,7 @@
 Stethoscope
 ===========
 
-This project aims to create a research-validated stethoscope whose plans are available freely and openly. The goal is for the bell to cost ~USD$1-2 to produce, and the rest of the stethoscope to cost approximately the same.
-
-Currently, the stethoscope resulting from this project functions as well as the market gold standard, the Littmann Cardiology III.
+This project was based of the Stethoscope designed by the Glia project! https://github.com/GliaX/Stethoscope
 
 
 Bill of Materials
