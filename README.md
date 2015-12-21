@@ -1,8 +1,8 @@
 Stethoscope
 ===========
 
-This project was based of the Stethoscope designed by the [Glia project!] (https://github.com/GliaX/Stethoscope)
-
+- This project was based of the Stethoscope designed by the [Glia project!] (https://github.com/GliaX/Stethoscope)
+- Our goal is to adapt the most current version of the Glia stethoscope for educational and training purposes!
 
 Bill of Materials
 =================
@@ -28,8 +28,6 @@ Some vendors are suggested. See Bill of materials ODS file for more information.
  
 * Silicone / Rubber ring for diaphram mount
 
-
-
 Print Instructions
 ==================
 All printed parts should be printed with PLA plastic at 0.2mm layer height, though it is acceptable for the first layer to be 0.3mm. Infill should be 100%.
@@ -45,8 +43,6 @@ Assembly Instructions
 * Attach the ear tubes to the molded earplugs.
 * Test the stethoscope as per the validation instructions.
 
-
-Other stethoscopes
-==================
-Others have made 3D printed stethoscopes too. See:
-* https://www.youmagine.com/designs/stethoscope-chestpiece
+Cost Comparison
+=====================
+TBUpdated
