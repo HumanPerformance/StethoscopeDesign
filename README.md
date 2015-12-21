@@ -1,7 +1,7 @@
 Stethoscope
 ===========
 
-This project was based of the Stethoscope designed by the Glia project! https://github.com/GliaX/Stethoscope
+This project was based of the Stethoscope designed by the [Glia project!] (https://github.com/GliaX/Stethoscope)
 
 
 Bill of Materials
